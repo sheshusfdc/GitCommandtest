@@ -6,4 +6,6 @@ public class TestFile {
 
     //Bala change 2
     // Stash Test
+
+    //Conflict Test 2
 }
